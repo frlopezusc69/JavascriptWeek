@@ -15,4 +15,4 @@ console.log(firstNonConsecutive([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]));
 arr == ["Max", "Baseball", "Reboot", "Goku", "Trunks", "Rodger"]
 
 let spliceUp = arr.splice(0, 2, 4);
-str.replace("even index")
+arr.replace("even index")
